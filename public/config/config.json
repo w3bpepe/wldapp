@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0x9DB94055F593bb5060A3A4AE5B78B9616fCA4d0D",
+  "SCAN_LINK": "https://etherscan.io/address/0x9db94055f593bb5060a3a4ae5b78b9616fca4d0d",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Alpha Warriors",
+  "SYMBOL": "ALPHA",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 2500000000000000,
+  "DISPLAY_COST": 0.0025,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/officialalphawarriorsNFT",
+  "SHOW_BACKGROUND": true
+}
